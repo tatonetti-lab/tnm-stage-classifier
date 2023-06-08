@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 nohup python3 testbestmodel_CUIMC_N03.py n bigbird 2048 CUIMC_N03/Final_N03.csv model_output/n03_output/n_rs0_bigbird_2bsize_2048max_tokens_lower_lr_roc_optim_30e_11-26-2022_20h-08m/ >  N03_CUIMC_TEST.txt  2>&1 &&
