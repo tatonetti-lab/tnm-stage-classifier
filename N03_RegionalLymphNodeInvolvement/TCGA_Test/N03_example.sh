@@ -1,1 +1,0 @@
-CUDA_VISIBLE_DEVICES=0 nohup python3 test_best_model_TCGA_N03.py n bigbird 2048  n01_data_multiclass model_output/n03_output/n_rs0_bigbird_2bsize_2048max_tokens_lower_lr_roc_optim_30e_11-26-2022_20h-08m/  > n03_tcga_testset.txt 2>&1 &
