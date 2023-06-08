@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 nohup python3 test_best_model_TCGA_M01.py m bigbird 1024 m01_data model_output/m01_output/m_rs1000_bigbird_4bsize_1024max_tokens_lowerLR09-05-2022_06h-23m/  > M01_tcga_testset.txt 2>&1 &
