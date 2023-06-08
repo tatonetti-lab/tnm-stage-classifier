@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 nohup python3 testbestmodel_CUIMC_T14.py t bigbird 2048 CUIMC_T14/Final_T14.csv model_output/t14_output/t_rs0_bigbird_2bsize_2048max_tokens_lower_lr_f1_optim_30e_10-13-2022_01h-50m/  >  CUIMC_T14_TEST.csv  2>&1 &

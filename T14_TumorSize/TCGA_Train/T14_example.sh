@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 nohup python3 train_allsubtypes_T14.py t 0 bigbird 2 2048 lower_lr roc 30 t14_data  t14  > t14_gridsearch/t14_output_rs0_BB_2_2048_30e_lowerLR_roc.txt 2>&1 &

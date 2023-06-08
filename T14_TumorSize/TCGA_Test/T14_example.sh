@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 nohup python3 test_best_model_TCGA_T14.py t bigbird 2048  t14_data model_output/t14_output/t_rs0_bigbird_2bsize_2048max_tokens_lower_lr_f1_optim_30e_10-13-2022_01h-50m/  > t14_tcga_testset.txt 2>&1 &
