@@ -1,4 +1,4 @@
-#For evaluating best-performing model on held-out test set (multi-class) 
+#For evaluating best-performing model on held-out test set (binary)
 
 from sklearn.metrics import roc_auc_score, roc_curve, f1_score
 from scipy.special import softmax
