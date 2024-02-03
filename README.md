@@ -10,12 +10,12 @@ We have included a small dataset, the T14 TCGA pathology report held-out test se
 
 The following python package versions were used in model training and testing: 
 
-numpy==1.19.5
-pandas==1.2.4
-scikit-learn==0.24.2
-scipy==1.6.3
-seaborn==0.11.2
-transformers==4.12.5
-torch==1.7.1
+numpy==1.19.5  
+pandas==1.2.4  
+scikit-learn==0.24.2  
+scipy==1.6.3  
+seaborn==0.11.2  
+transformers==4.12.5  
+torch==1.7.1  
 
 To apply one of the TNM models to an external dataset, use the code provided in the Demo jupyter notebook. Replace the dataset and ensure that the target labels in the new dataset are the same as those for the trained models (T14, N03, M01). Ensure that the python packages used locally are the same as those outlined above. 
