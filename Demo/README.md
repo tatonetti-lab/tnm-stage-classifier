@@ -1,8 +1,8 @@
 ### 1. TNM models have been trained and are now posted on huggingface: 
 
-- https://huggingface.co/jkefeli/CancerStage_Classifier_T
-- https://huggingface.co/jkefeli/CancerStage_Classifier_N
-- https://huggingface.co/jkefeli/CancerStage_Classifier_M
+- https://huggingface.co/jkefeli/CancerStage_Classifier_T  
+- https://huggingface.co/jkefeli/CancerStage_Classifier_N  
+- https://huggingface.co/jkefeli/CancerStage_Classifier_M  
 
 We have included a small dataset, the T14 TCGA pathology report held-out test set, to demonstrate the utility and ease-of-use of the trained models. Please see T14_test.csv.
 
