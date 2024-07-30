@@ -45,7 +45,7 @@ Kefeli J, Tatonetti N. Generalizable and Automated Classification of TNM Stage f
 ```
 @article{kefeli2023tnmstage,
   title={Generalizable and Automated Classification of TNM Stage from Pathology Reports with External Validation},
-  author={Kefeli, J., & Tatonetti, N.},
+  author={Jenna Kefeli and Nicholas Tatonetti},
   journal = {medRxiv},
   doi = {https://doi.org/10.1101/2023.06.26.23291912},
   volume={},
